@@ -180,7 +180,12 @@ gap: 20px;
     align-items: center;
     justify-content: center;
 }
-auto
+
+.content-t4-box {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 10px;
+    flex: 1;
     padding: 40px 100px;
     display: flex;
     align-items: center;
